@@ -1,0 +1,5 @@
+classes = 1
+valid = doc_data/document_test.txt
+train = doc_data/document_training.txt
+names = doc_data/document.names
+backup = backup
